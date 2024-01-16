@@ -117,3 +117,102 @@ input4 {
     color: white;
     border: none;
 }
+
+.maldive1 {
+    background-image: url(../Images/Rectangle\ 5.png);
+    width: 573px;
+    height: 300px;
+    flex-shrink: 0;
+}
+
+.indonesia1 {
+    background-image: url(../Images/Rectangle\ 8.png);
+    width: 573px;
+    height: 300px;
+    flex-shrink: 0;
+
+}
+
+p {
+    color: #FFF;
+
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+
+}
+
+.beauty {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.beauty1 {
+    text-align: center;
+}
+
+.beauty2 {
+    display: flex;
+    gap: 24px;
+}
+
+.srilanka1 {
+    background-image: url(../Images/Rectangle\ 6.png);
+    width: 374px;
+    height: 286px;
+    flex-shrink: 0;
+}
+
+.north-america1 {
+    background-image: url(../Images/Rectangle\ 7.png);
+    width: 474px;
+    height: 286px;
+    flex-shrink: 0;
+}
+
+.kashmir1 {
+    background-image: url(../Images/Rectangle\ 9.png);
+    width: 274px;
+    height: 286px;
+    flex-shrink: 0;
+}
+
+.beauty3 {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    gap: 24px;
+    margin-top: 10px;
+
+}
+
+.bangladesh1 {
+    background-image: url(../Images/Rectangle\ 11.png);
+    width: 473px;
+    height: 300px;
+    flex-shrink: 0;
+    border-radius: 16px;
+}
+
+.bandarban1 {
+    background-image: url(../Images/Rectangle\ 10.png);
+    width: 673px;
+    height: 300px;
+    flex-shrink: 0;
+    border-radius: 16px;
+
+}
+
+.beauty4 {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    gap: 24px;
+    margin-top: 10px;
+
+}
+
+.descrip {
+    color: rgba(19, 19, 24, 0.70);
+
+}
