@@ -374,6 +374,88 @@ hr {
     color: #1313181A;
 }
 
+.title-tour {
+    color: #5A5A5D;
+}
+
+.title-tour1 {
+    color: #5A5A5D;
+}
+
+.bok-now {
+    width: 150px;
+    height: 52px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FF5400;
+    color: white;
+    border: none;
+    margin-left: 200px;
+}
+
+.bok-now1 {
+    width: 150px;
+    height: 52px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FF5400;
+    color: white;
+    border: none;
+    margin-left: 200px;
+}
+
+.last-fot {
+    color: #FF5400;
+}
+
+.bonus11111 {
+    margin-top: 10px;
+    margin-bottom: 15px;
+
+}
+
+
+
+
+.opu {
+    border-radius: 16px;
+    border: 2px solid #FFF;
+    background: rgba(255, 255, 255, 0.80);
+    backdrop-filter: blur(2.5px);
+    width: 579px;
+    height: 300px;
+    flex-shrink: 0;
+    margin-left: 600px;
+    margin-top: 56px;
+    margin-bottom: 10px;
+}
+
+
+
+.bed1 {
+    width: 579px;
+    height: 389px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    border: 2px solid #FFF;
+    background: rgba(255, 255, 255, 0.80);
+    backdrop-filter: blur(2.5px);
+}
+
+.bed {
+    background-image: url(../Images/Group\ 40.png);
+    width: 1170px;
+    height: 500px;
+    flex-shrink: 0;
+    border-radius: 16px;
+
+}
+
+
+
+
+
+
 .finalll {
     display: flex;
     justify-content: center;
@@ -422,6 +504,16 @@ h2 {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
+}
+
+.umbrella {
+    background-image: url(../Images/Group\ 39.png);
+    width: 1170px;
+    height: 500px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    margin-top: 10px;
+    max-width: 1200px;
 }
 
 .reviewItem {
