@@ -216,3 +216,54 @@ p {
     color: rgba(19, 19, 24, 0.70);
 
 }
+
+.choose1 {
+    text-align: center;
+    color: #131318;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.beauty5 {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.hotel {
+
+    padding-left: 10px;
+    width: 573px;
+    height: 284px;
+
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+}
+
+.map {
+    width: 573px;
+    height: 284px;
+
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+}
+
+.map-hotel {
+    display: flex;
+    gap: 20px;
+}
+
+.box-title {
+    margin-right: 100px;
+    margin-top: 20px;
+    padding-left: 20px;
+    width: 573px;
+    height: 284px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+}
