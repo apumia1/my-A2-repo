@@ -473,6 +473,22 @@ hr {
     background-color: #090921;
 }
 
+.hotel:hover {
+    border: 2px solid aquamarine;
+}
+
+.map:hover {
+    border: 2px solid orangered;
+}
+
+.box-title:hover {
+    border: blue;
+}
+
+.host {
+    color: rgba(19, 19, 24, 0.70);
+}
+
 h2 {
     font-size: 2rem;
     margin-bottom: 1rem;
