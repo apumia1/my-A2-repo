@@ -1,3 +1,6 @@
+font-family: 'Open Sans',
+sans-serif;
+
 .nav-container {
 
     width: 50%;
@@ -318,6 +321,7 @@ p {
 .save {
     max-width: 1200px;
     margin: 0 auto;
+    display: flex;
 }
 
 .subscription-btn {
@@ -330,10 +334,48 @@ p {
     border: none;
 }
 
+.name23 {
+    width: 393px;
+    height: 52px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(19, 19, 24, 0.05);
+    border: none;
+    padding-left: 10px;
+}
+
 .input-bro {
     display: block;
 }
 
-.news-hotel {
+.footer-sec {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 1440px;
+    height: 502px;
+    flex-shrink: 0;
+    background: rgba(19, 19, 24, 0.05);
+}
+
+.social-icons {
+    text-align: center;
+    margin-right: 5px;
+}
+
+.last {
+
+    color: #131318;
+    text-align: center;
+}
+
+hr {
+    width: 872px;
+    height: 1px;
+    color: #1313181A;
+}
+
+.finalll {
     display: flex;
+    justify-content: center;
+    align-items: center;
 }

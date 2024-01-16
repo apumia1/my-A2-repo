@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
     <script src="https://kit.fontawesome.com/078d194c95.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -16,7 +19,7 @@
 
             <div class="nav-container">
                 <img src="Images/Group 40071 (2).png" alt="">
-                <p>Apu <span class="special">Travels</span></p>
+                <p class="">Apu<span class="special">Travels</span></p>
             </div>
             <div class="right-section">
                 <a href=""><span class="home-1">HOME</span></a>
@@ -179,21 +182,51 @@
                 <h1>newsletter</h1>
                 <p class="title12">Newsletter subscription is a way of collecting a customer's email addresses so that
                     you can send them marketing messages and promotional offers via email.</p>
+                <form>
 
-                <input type="text" placeholder="enter your name">
+                    <input class="name23" type="text" id="name" name="name" required placeholder="enter your name">
+                    <br>
 
-                <input type="email" name="" id="" placeholder="enter your email">
 
-                <button class="subscription-btn">subscription</button>
+                    <input class="name23" type="email" id="email" name="email" required placeholder="enter your mail">
+                    <br>
 
-                <div>
-                    <img src="Images/Rectangle 8 (1).png" alt="">
-                </div>
+                    <button class="subscription-btn" type="submit">Subscribe</button>
+                </form>
+
+            </div>
+
+
+
+            <div>
+                <img src="Images/Rectangle 8 (1).png" alt="">
+            </div>
             </div>
         </section>
     </main>
-    <footer>
+    <footer class="footer-sec">
+        <div>
+            <div class="finalll">
+                <img src="Images/Group 40071 (2).png" alt="">
+                <h1>Apu travels</h1>
+            </div>
 
+
+            <p style="color: #5A5A5D;">Traveling is a great way to boost your health, broaden your horizons, and make
+                memorable memories.</p>
+
+
+        </div>
+        <div class="social-icons">
+            <a href=""><i class="fa-brands fa-twitter"></i></a>
+            <a href=""><i class="fa-brands fa-facebook"></i></a>
+            <a href=""><i class="fa-brands fa-instagram"></i></i></a>
+            <a href=""><i class="fa-brands fa-github"></i></a>
+        </div>
+        <hr>
+        <div>
+            <p class="last">2024, all rights reserved</p>
+        </div>
     </footer>
 </body>
 
