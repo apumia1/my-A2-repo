@@ -267,3 +267,73 @@ p {
     border: 1px solid rgba(233, 68, 68, 0.20);
     background: rgba(233, 68, 68, 0.05);
 }
+
+.deal {
+    color: #131318;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.discount {
+    color: rgba(19, 19, 24, 0.70);
+}
+
+.deal-discount {
+    text-align: center;
+}
+
+.simple {
+    color: #131318;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.mountain {
+    background-image: url(../Images/Rectangle\ 11.png);
+    width: 400pxpx;
+    height: 424px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background-repeat: no-repeat;
+}
+
+.mountain12 {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    gap: 10px;
+}
+
+.resort {
+    color: #5A5A5D;
+    font-size: small;
+}
+
+.title12 {
+    color: #5A5A5D;
+
+}
+
+.save {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.subscription-btn {
+    width: 393px;
+    height: 52px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FF5400;
+    color: white;
+    border: none;
+}
+
+.input-bro {
+    display: block;
+}
+
+.news-hotel {
+    display: flex;
+}
